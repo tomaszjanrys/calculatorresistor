@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611487368 source:c:\users\nice\desktop\c\wylicznik opornikow\wylicznik opornikow poprawiony\wylicznik opornikow poprawiony\main.c
+	<stdio.h>
+	<stdlib.h>
+
